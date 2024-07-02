@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "64978858773",
+    "firebase_url": "https://tasktrek-872f0-default-rtdb.firebaseio.com",
+    "project_id": "tasktrek-872f0",
+    "storage_bucket": "tasktrek-872f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64978858773:android:b2de32b95ee3145a22ef1c",
+        "android_client_info": {
+          "package_name": "com.example.taskpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjsZfoR2hA7-UBx_PuXiYAzqkTNYx3rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64978858773:android:210e95af10c9850f22ef1c",
+        "android_client_info": {
+          "package_name": "com.example.tasktrek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjsZfoR2hA7-UBx_PuXiYAzqkTNYx3rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
